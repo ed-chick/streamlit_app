@@ -4,7 +4,7 @@ Showcasing how Streamlit can be used to create interactive, web-hosted reports.
 
 ## Introduction
 
-More text here.
+Just a basic app that allows you to look at cancer screening data from Fingtertips at ICB level.
 
 ## Data
 
