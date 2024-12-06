@@ -1,4 +1,4 @@
-# Health Inequalities in Streamlit Demo
+# Fingertips Data in Streamlit Demo
 
 Showcasing how Streamlit can be used to create interactive, web-hosted reports.
 
