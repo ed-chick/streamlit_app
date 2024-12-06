@@ -1,0 +1,19 @@
+
+# note to self about error that occurred when uploading the app to Posit Cloud
+dependency_errors.txt
+
+# environment
+hi-venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# IDE settings
+.vscode/
